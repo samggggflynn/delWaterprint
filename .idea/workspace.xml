@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6accfd4-8e2a-4fc7-beda-0ae9b09746b7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/del_Water_print.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="70" column="27" lean-forward="true" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Request" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/waterprint.py" />
+        <option value="$PROJECT_DIR$/print.py" />
+        <option value="$USER_HOME$/Documents/WeChat Files/wxid_2bemttdrunil21/FileStorage/File/2019-07/cannyimg.py" />
+        <option value="$PROJECT_DIR$/cannyimg.py" />
+        <option value="$PROJECT_DIR$/hsv_process.py" />
+        <option value="$PROJECT_DIR$/hsv12121.py" />
+        <option value="E:/../暗光增强/Dark_Image_Enhance/longBGR_limiti_ZF.py" />
+        <option value="$PROJECT_DIR$/11111印章.py" />
+        <option value="$PROJECT_DIR$/remove_print.py" />
+        <option value="E:/../新建文件夹/sssss.py" />
+        <option value="$PROJECT_DIR$/232323.py" />
+        <option value="$PROJECT_DIR$/121212.py" />
+        <option value="$PROJECT_DIR$/1212123232.http" />
+        <option value="$PROJECT_DIR$/python_server.py" />
+        <option value="E:/../暗光增强/Dark_Image_Enhance/BGR_limit_ZF.py" />
+        <option value="$PROJECT_DIR$/del_Water_print.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="delWaterprint" type="b2602c69:ProjectViewProjectNode" />
+              <item name="delWaterprint" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="delWaterprint" type="b2602c69:ProjectViewProjectNode" />
+              <item name="delWaterprint" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/../vision-web-service-master/vision-web-service-master" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\40101\Desktop\图像预处理-近期汇总0711\图像预处理-发票去印章\delWaterprint" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.del_Water_print">
+    <configuration name="121212" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="delWaterprint" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/121212.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="232323" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="delWaterprint" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/232323.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BGR_limit_ZF" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="delWaterprint" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/../暗光增强/Dark_Image_Enhance" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/../暗光增强/Dark_Image_Enhance/BGR_limit_ZF.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="del_Water_print" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="delWaterprint" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/del_Water_print.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="delWaterprint" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/../vision-web-service-master/vision-web-service-master" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/../vision-web-service-master/vision-web-service-master/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.del_Water_print" />
+        <item itemvalue="Python.232323" />
+        <item itemvalue="Python.BGR_limit_ZF" />
+        <item itemvalue="Python.121212" />
+        <item itemvalue="Python.server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6accfd4-8e2a-4fc7-beda-0ae9b09746b7" name="Default Changelist" comment="" />
+      <created>1562548449781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562548449781</updated>
+      <workItem from="1562548451210" duration="16872000" />
+      <workItem from="1562632656661" duration="7707000" />
+      <workItem from="1562658678403" duration="23000" />
+      <workItem from="1562743351242" duration="103000" />
+      <workItem from="1562819399887" duration="128000" />
+      <workItem from="1562819597913" duration="39000" />
+      <workItem from="1562819957354" duration="3040000" />
+      <workItem from="1564969971643" duration="6930000" />
+      <workItem from="1565009599074" duration="1220000" />
+      <workItem from="1565052464609" duration="26974000" />
+      <workItem from="1565105059808" duration="870000" />
+      <workItem from="1565139084284" duration="10452000" />
+      <workItem from="1565225491676" duration="19730000" />
+      <workItem from="1565316453649" duration="6171000" />
+      <workItem from="1565361633160" duration="834000" />
+      <workItem from="1565577705776" duration="3396000" />
+      <workItem from="1565591174806" duration="620000" />
+      <workItem from="1565600176430" duration="1024000" />
+      <workItem from="1565601269823" duration="873000" />
+      <workItem from="1565602376986" duration="800000" />
+      <workItem from="1565604254922" duration="1325000" />
+      <workItem from="1565613617979" duration="1412000" />
+      <workItem from="1565620091592" duration="2548000" />
+      <workItem from="1565622702999" duration="1081000" />
+      <workItem from="1565658537707" duration="392000" />
+      <workItem from="1565663520352" duration="3112000" />
+      <workItem from="1565746510215" duration="463000" />
+      <workItem from="1567396229884" duration="178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="118317000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1552" height="840" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49816176" visible="true" weight="0.14524765" />
+      <window_info id="Structure" order="1" sideWeight="0.5018382" side_tool="true" weight="0.07439678" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32903227" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24118477" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32913166" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32903227" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32977587" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.07470651" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/delWaterprint$sssss.coverage" NAME="sssss Coverage Results" MODIFIED="1565268553600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/../新建文件夹" />
+    <SUITE FILE_PATH="coverage/delWaterprint$full_doain_enhance.coverage" NAME="full_doain_enhance Coverage Results" MODIFIED="1565337892792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/../暗光增强/Dark_Image_Enhance" />
+    <SUITE FILE_PATH="coverage/delWaterprint$121212.coverage" NAME="121212 Coverage Results" MODIFIED="1565621567731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/delWaterprint$cannyimg__1_.coverage" NAME="cannyimg (1) Coverage Results" MODIFIED="1565071289333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/delWaterprint$hsv_process.coverage" NAME="hsv_process Coverage Results" MODIFIED="1565161784374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/delWaterprint$longBGR_limiti_ZF.coverage" NAME="longBGR_limiti_ZF Coverage Results" MODIFIED="1565233515306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/../暗光增强/Dark_Image_Enhance" />
+    <SUITE FILE_PATH="coverage/delWaterprint$remove_print.coverage" NAME="remove_print Coverage Results" MODIFIED="1565336049906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/delWaterprint$hsv12121.coverage" NAME="hsv12121 Coverage Results" MODIFIED="1565082498169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/delWaterprint$print.coverage" NAME="print Coverage Results" MODIFIED="1562820327079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/delWaterprint$232323.coverage" NAME="232323 Coverage Results" MODIFIED="1565685136565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/delWaterprint$server.coverage" NAME="server Coverage Results" MODIFIED="1565579759774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/../vision-web-service-master/vision-web-service-master" />
+    <SUITE FILE_PATH="coverage/delWaterprint$del_Water_print.coverage" NAME="del_Water_print Coverage Results" MODIFIED="1567396324561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/delWaterprint$waterprint.coverage" NAME="waterprint Coverage Results" MODIFIED="1562820176181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/delWaterprint$11111.coverage" NAME="11111印章 Coverage Results" MODIFIED="1565234065386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/delWaterprint$cannyimg.coverage" NAME="cannyimg Coverage Results" MODIFIED="1565056480826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/WeChat Files/wxid_2bemttdrunil21/FileStorage/File/2019-07" />
+    <SUITE FILE_PATH="coverage/delWaterprint$BGR_limit_ZF.coverage" NAME="BGR_limit_ZF Coverage Results" MODIFIED="1565681258354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/../暗光增强/Dark_Image_Enhance" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scaleimage.jpg" />
+    <entry file="file://$PROJECT_DIR$/scale_image.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/removeprint.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mask.png" />
+    <entry file="file://$PROJECT_DIR$/print.py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wxid_2bemttdrunil21/FileStorage/File/2019-07/cannyimg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result.png" />
+    <entry file="file://$PROJECT_DIR$/_result.png" />
+    <entry file="file://E:/../realtime-panorama-stitching/realtime-panorama-stitching/1233.py" />
+    <entry file="file://$PROJECT_DIR$/src/input1.png" />
+    <entry file="file://$PROJECT_DIR$/waterprint.py" />
+    <entry file="file://$PROJECT_DIR$/cannyimg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/input.png" />
+    <entry file="file://$PROJECT_DIR$/hsv_process.py" />
+    <entry file="file://$PROJECT_DIR$/hsv12121.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
+          <folding>
+            <element signature="e#24#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roi_area.jpg" />
+    <entry file="file://$PROJECT_DIR$/roi_area_3.jpg" />
+    <entry file="file://$PROJECT_DIR$/roi_area_4.jpg" />
+    <entry file="file://$PROJECT_DIR$/roi_area_7.jpg" />
+    <entry file="file://$PROJECT_DIR$/roi_area_5.jpg" />
+    <entry file="file://$PROJECT_DIR$/11111印章.py" />
+    <entry file="file://$PROJECT_DIR$/roi_area_0.jpg" />
+    <entry file="file://$PROJECT_DIR$/roi_area_2.jpg" />
+    <entry file="file://$PROJECT_DIR$/roi_area_6.jpg" />
+    <entry file="file://$PROJECT_DIR$/roi_area_8.jpg" />
+    <entry file="file://$PROJECT_DIR$/roi_area_9.jpg" />
+    <entry file="file://$PROJECT_DIR$/roi_area_1.jpg" />
+    <entry file="file://E:/../新建文件夹/sssss.py" />
+    <entry file="file://E:/../暗光增强/Dark_Image_Enhance/full_doain_enhance.py" />
+    <entry file="file://$PROJECT_DIR$/new_img.jpg" />
+    <entry file="file://$PROJECT_DIR$/r_result.png" />
+    <entry file="file://$PROJECT_DIR$/input.png" />
+    <entry file="file://E:/../vision-web-service-master/vision-web-service-master/server.py" />
+    <entry file="file://$USER_HOME$/.jupyter/jupyter_notebook_config.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1212123232.http" />
+    <entry file="file://E:/../暗光增强/Dark_Image_Enhance/BGR_limit_ZF.py" />
+    <entry file="file://$PROJECT_DIR$/python_server.py" />
+    <entry file="file://E:/../暗光增强/Dark_Image_Enhance/longBGR_limiti_ZF.py" />
+    <entry file="file://$PROJECT_DIR$/121212.py" />
+    <entry file="file://$PROJECT_DIR$/remove_print.py" />
+    <entry file="file://$PROJECT_DIR$/232323.py" />
+    <entry file="file://$PROJECT_DIR$/del_Water_print.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="70" column="27" lean-forward="true" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
